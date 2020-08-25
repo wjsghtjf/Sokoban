@@ -1,0 +1,5 @@
+Brain name,Time to update policy,Time since start of training,Time for last experience collection,Number of experiences used for training,Mean return
+SokobanLearning,16.679,82.603,56.306,10271,-1.126
+SokobanLearning,16.267,163.393,55.668,10257,-1.125
+SokobanLearning,16.314,244.604,56.149,10242,-1.124
+SokobanLearning,16.265,325.396,55.763,10272,-1.124
